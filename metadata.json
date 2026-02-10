@@ -1,0 +1,7 @@
+{
+  "name": "易宿商家中心",
+  "description": "专业的酒店行业云管理平台，助力酒店实现数字化转型与高效管理。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
